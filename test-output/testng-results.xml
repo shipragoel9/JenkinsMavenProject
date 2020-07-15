@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14162" started-at="2020-07-15T05:30:02Z" finished-at="2020-07-15T05:30:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14162" started-at="2020-07-15T05:30:02Z" finished-at="2020-07-15T05:30:16Z">
+      <class name="Test.NewTest">
+        <test-method status="PASS" signature="LaunchApp()[pri:0, instance:Test.NewTest@50a7bc6e]" name="LaunchApp" is-config="true" duration-ms="11150" started-at="2020-07-15T05:30:02Z" finished-at="2020-07-15T05:30:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApp -->
+        <test-method status="PASS" signature="login()[pri:0, instance:Test.NewTest@50a7bc6e]" name="login" duration-ms="1567" started-at="2020-07-15T05:30:13Z" finished-at="2020-07-15T05:30:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:Test.NewTest@50a7bc6e]" name="logout" duration-ms="1255" started-at="2020-07-15T05:30:15Z" finished-at="2020-07-15T05:30:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="Closing()[pri:0, instance:Test.NewTest@50a7bc6e]" name="Closing" is-config="true" duration-ms="146" started-at="2020-07-15T05:30:16Z" finished-at="2020-07-15T05:30:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Closing -->
+      </class> <!-- Test.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
